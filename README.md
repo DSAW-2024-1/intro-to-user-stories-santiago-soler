@@ -6,3 +6,4 @@
 
 
 **Link de Trello con las historias de usuario:** **https://trello.com/invite/b/DfRw5e1z/ATTI86a729ef40c0b50e1d70d5507865e20e13F72238/proyecto-desarrollo-web**
+**Santiago Soler Prado**
